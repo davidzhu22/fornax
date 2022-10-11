@@ -21,7 +21,7 @@ Result:
      width="98%"  
      align="center"/>
 
-### 1.1.2. Open pub key in B.
+### 1.1.2. Open pub key in A.
 ```
 cat .ssh/id_rsa.pub
 ```
